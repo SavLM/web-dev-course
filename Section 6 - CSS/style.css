@@ -1,0 +1,51 @@
+/*CSS file*/
+* {
+}
+
+body {
+  background-image: url(backgroundimage0.jpg);
+  background-size: cover;
+  color: pink;
+  font-family: 'Poiret One', Georgia;
+  font-size: 15px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  border: 0px solid grey;
+  cursor: pointer;
+}
+
+p {
+  color: pink;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+}
+
+a:link {
+  color: pink;
+}
+
+nav {
+  text-transform: uppercase;
+}
+
+section p {
+  line-height: 30px;
+}
+
+span {
+  font-size: 3em;
+}

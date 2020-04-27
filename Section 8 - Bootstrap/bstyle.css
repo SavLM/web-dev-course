@@ -1,0 +1,13 @@
+/*CSS file*/
+* {
+}
+
+.btn-primary {
+  background-color: teal;
+  border: 1px solid teal;
+}
+
+.btn-primary:hover {
+  background-color: green;
+  border: 1px solid green;
+}
